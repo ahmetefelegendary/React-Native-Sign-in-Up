@@ -1,6 +1,5 @@
 <div align="center">
     <h1>Ahmet Efe Kahraman</h1>
-   
     <img src="https://ibb.co/7bLFHQh">
 </div>
 
