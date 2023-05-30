@@ -1,6 +1,6 @@
 
 
-# 🇹🇨 Nasıl Kurulur?
+# 🇹🇷 Nasıl Kurulur?
 >  $ `npm install`
 >  $ `npx expo start` . / Projeyi Canlı Sunar.
 
